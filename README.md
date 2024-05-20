@@ -14,4 +14,4 @@
 </pre>
 
 <h1>Сама Игра!</h1>
-<img src="https://github.com/pauldekarin/blockade-game-cocos2d/blob/main/preview/game.gif"/>
+<img src="https://github.com/pauldekarin/three_around_cocos2dxx/blob/main/preview/game.gif"/>
