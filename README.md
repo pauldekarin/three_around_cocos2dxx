@@ -1,11 +1,10 @@
 # Block Removal Game
-<img src="https://github.com/pauldekarin/three_around_cocos2dxx/blob/main/preview/game.gif"/>
 
 ## Overview
 
 This project is a test task for a C++ developer position at Dankolab, implemented using the Cocos2d game engine. The task was to create a game where the player removes as many colored blocks from a rectangular field as possible. When a block is clicked, all adjacent blocks of the same color are found and, if there are three or more, they are destroyed. The remaining blocks above fall down to fill the empty spaces. The interface includes a button to start the game.
 
-![reference](./images/reference.png)
+<img src="https://github.com/pauldekarin/three_around_cocos2dxx/blob/main/preview/game.gif"/>
 
 ## Game Mechanics
 
